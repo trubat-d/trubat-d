@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+![0xLord](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3598845)
+
 <!--
-**trubat-d/trubat-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**trubat-d/trubat-d** is a ✨ _special_ ✨ repository because its `READ`
+ME.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
