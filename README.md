@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>[Test](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3598845)</h2>
+[[![Test](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3598845)]](https://tryhackme.com/r/p/0xL0rd)
 
 
 <!--
