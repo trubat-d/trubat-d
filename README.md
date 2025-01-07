@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h2>Test</h2>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3598845" style='border:none;'></iframe>
+<h2>[Test](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3598845)</h2>
+
 
 <!--
 **trubat-d/trubat-d** is a ✨ _special_ ✨ repository because its `READ`
